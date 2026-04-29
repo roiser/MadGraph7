@@ -1,2 +1,2 @@
 generate p p > t t~ j
-output madevent_simd PROC_pp_ttxj
+output PROC_pp_ttxj
